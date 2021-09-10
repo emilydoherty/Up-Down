@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Up & Down Mood Tracking App & Sensor 
 
-You can use the [editor on GitHub](https://github.com/emilydoherty/upandgo.github.come/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Description of Project: “Up & Down” is a mood-tracking app where users are able to track their mood by selecting emojis & words to describe how they’re feeling. The app also integrates physiological data from custom physiological sensors such as the EmotiBit & Galvanic Skin Response/Electrodermal activity, which are closely related to emotions. 
 
 ### Markdown
 
