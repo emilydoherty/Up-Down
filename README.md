@@ -1,2 +1,2 @@
-# upandgo.github.come
+# upandgo.github.com
 Mood tracking app &amp; sensor
