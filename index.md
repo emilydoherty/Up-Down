@@ -10,5 +10,6 @@ Rajshekar Guda Subhash, Rajshekar.GudaSubhash@colorado.edu
 
 ## Project Deliverables 
 
-1. Project Proposal [Project Proposal.docx](https://github.com/emilydoherty/upanddown/files/7156452/Project.Proposal.docx)
+1. Project Proposal [Project Proposal.pdf](https://github.com/emilydoherty/upanddown/files/7156458/Project.Proposal.pdf)
+
 
