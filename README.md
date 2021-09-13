@@ -1,2 +1,2 @@
-# upanddown
-Mood tracking app &amp; sensor
+# Up & Down
+Mood tracking app &amp; Sensor
