@@ -1,2 +1,2 @@
 # Up & Down
-Mood tracking app &amp; Sensor
+Interactive Mood Tracking App &amp; Sensor
