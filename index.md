@@ -13,14 +13,8 @@ Rajshekar Guda Subhash, Rajshekar.GudaSubhash@colorado.edu
 ### Week of 9/15 Project Proposal PDF
 [Project Proposal PDF](Project Proposal.pdf)
 
-### Week of 9/27: Personas and task models
-Personas and task models
-
-### Week of 10/6: Prototypes of key features
-Prototypes of key features
-
 ### Week of 10/25: Complete prototype
-Complete prototype
+https://www.figma.com/file/1YChmbD5iLuauEBKQXwppd/Prototype?node-id=0%3A1
 
 ### Week of 11/3: User testing results and changes
 User testing results and changes
