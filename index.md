@@ -14,13 +14,14 @@ Rajshekar Guda Subhash, Rajshekar.GudaSubhash@colorado.edu
 [Project Proposal PDF](Project Proposal.pdf)
 
 ### Week of 10/25: Complete prototype
-[Link] (https://www.figma.com/file/1YChmbD5iLuauEBKQXwppd/Prototype?node-id=0%3A1)
+[Link](https://www.figma.com/file/1YChmbD5iLuauEBKQXwppd/Prototype?node-id=0%3A1)
 
 ### Week of 11/3: User testing results and changes
 [User Research Report](User Research Report.docx)
 
 ### Week of 11/29: Revised prototype
 [Changelog](Changelog & Script.docx)
+
 [Script](Script.docx)
 
 ### Week of 12/8: Video demo
