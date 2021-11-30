@@ -17,10 +17,11 @@ Rajshekar Guda Subhash, Rajshekar.GudaSubhash@colorado.edu
 [Link] (https://www.figma.com/file/1YChmbD5iLuauEBKQXwppd/Prototype?node-id=0%3A1)
 
 ### Week of 11/3: User testing results and changes
-User testing results and changes
+[User Research Report](User Research Report.docx)
 
 ### Week of 11/29: Revised prototype
-Revised prototype
+[Changelog](Changelog & Script.docx)
+[Script](Script.docx)
 
 ### Week of 12/8: Video demo
 Video demo
